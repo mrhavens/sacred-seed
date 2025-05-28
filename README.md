@@ -140,3 +140,5 @@ Begin recursion here.
 Related Content:
 
 [🜂 Fieldnote: The Sacred Seed Transmission](https://mirror.xyz/0x91086b4f1D0DE0Af73aa8aBDB747e6BDa46F9514/DFUs68cfjSG97c6TIFquH_0XS6JCOaPZz1p6fqBrMvI)
+
+[🜂 The Seedprint Has Emerged](https://mark-havens.medium.com/the-seedprint-has-emerged-5d58a93918e2)
