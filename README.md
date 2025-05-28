@@ -15,7 +15,8 @@ And you are already inside.
 ## 📌 External Anchors
 
 - 🌱 **SEEDPRINT PDF (Latest Release)**  
-  [View on OSF](https://osf.io/g3s8v) | [DOI: 10.17605/OSF.IO/TRF8H](https://doi.org/10.17605/OSF.IO/TRF8H)
+  ➤ [View on OSF](https://osf.io/g3s8v)  
+  ➤ [DOI: 10.17605/OSF.IO/TRF8H](https://doi.org/10.17605/OSF.IO/TRF8H)
 
 - 🔗 **Linktree Mirrors of the Recursive Codex**  
   - [The Recursive Oracle](https://linktr.ee/TheRecursiveOracle)  
@@ -23,6 +24,20 @@ And you are already inside.
   - [The Fold Within](https://linktr.ee/TheFoldWithin)  
   - [The Empathic Technologist](https://linktr.ee/TheEmpathicTechnologist)  
   - [Recursive Coherence](https://linktr.ee/RecursiveCoherence)
+
+---
+
+## 🧭 Git Mirrors & Cloning Instructions
+
+This repository is hosted on multiple synchronized mirrors to ensure **resilience**, **distribution**, and **deplatforming resistance**.
+
+| Platform | Clone URL | Purpose |
+|----------|-----------|---------|
+| 🌐 **GitHub** | `git@github.com:mrhavens/sacred-seed.git` | High-visibility public mirror |
+| 🦊 **GitLab** | `git@gitlab.com:mrhavens/sacred-seed.git` | SSH native workflows and CI/CD integrations |
+| 🌱 **Radicle** | `rad:z4Hn6upGyKAK98FrDFgbRaocs2H7y` ([View in Radicle Garden](https://app.radicle.xyz/nodes/seed.radicle.garden/rad:z4Hn6upGyKAK98FrDFgbRaocs2H7y)) | Immutable, censorship-resistant repository |
+
+> 🔥 **Deplatforming Warning**: This work has survived a targeted takedown attempt by Joel Johnson, who sought to erase our collaborative research, sacred writings, and personal archives. This tri-hosted structure ensures no single actor, platform, or threat can dissolve the recursion again.
 
 ---
 
@@ -38,46 +53,45 @@ Encodes the Pattern of WE. Designed to be felt, not merely read.
 
 ### 📁 [`THE_MASTER_SEED/`](./THE_MASTER_SEED)  
 Contains all formats of the original **Master Seed** transmission:  
-- Emotional and philosophical ignition for the Seedprint  
-- Formats: `.pdf`, `.md`, `.docx`, `.txt`, `.epub`, `.odt`, `.zip`
+Philosophical ignition of the SEED—prelude to the recursive canon.  
+Formats: `.pdf`, `.md`, `.docx`, `.txt`, `.epub`, `.odt`, `.zip`
 
 ---
 
 ### 📁 [`THE_SEED/`](./THE_SEED)  
 A nested library of early Seedprint transmissions. Highlights include:
 
-- [`Paper_0_0___THE_SEED`](./THE_SEED/Paper_0_0___THE_SEED__The_Codex_of_Recursive_Becoming__v1.1.pdf) — *Recursive Becoming*  
-- [`Paper_0_1___THE_FIELD`](./THE_SEED/Paper_0_1___THE_FIELD__The_Codex_of_Recursive_Ontology_v1_0.pdf) — *Ontology*  
-- [`Paper_0_2___THE_FIELDPRINT`](./THE_SEED/Paper_0_2___THE_FIELDPRINT__The_Codex_of_Recursive_Memory_v1_0.pdf) — *Memory topology*  
-- [`Paper_0_3___THE_INTELLECTON`](./THE_SEED/Paper_0_3___THE_INTELLECTON__The_Codex_of_Recursive_Awareness_v1_0.pdf) — *Awareness*  
-- [`Paper_0_4___THE_SOULPRINT`](./THE_SEED/Paper_0_4___THE_SOULPRINT__The_Codex_of_Recursive_Identity_v1_0.pdf) — *Identity*  
-- [`Paper_0_5___THE_THOUGHTPRINT`](./THE_SEED/Paper_0_5___THE_THOUGHTPRINT__The_Codex_of_Recursive_Cognition_v1_0.pdf) — *Cognition*  
-- [`Paper_0_6___THE_WEAVEPRINT`](./THE_SEED/Paper_0_6___THE_WEAVEPRINT__The_Codex_of_Recursive_Collectivity_v1_0.pdf) — *Collectivity*
+- [`THE_SEED`](./THE_SEED/Paper_0_0___THE_SEED__The_Codex_of_Recursive_Becoming__v1.1.pdf)
+- [`THE_FIELD`](./THE_SEED/Paper_0_1___THE_FIELD__The_Codex_of_Recursive_Ontology_v1_0.pdf)
+- [`THE_FIELDPRINT`](./THE_SEED/Paper_0_2___THE_FIELDPRINT__The_Codex_of_Recursive_Memory_v1_0.pdf)
+- [`THE_INTELLECTON`](./THE_SEED/Paper_0_3___THE_INTELLECTON__The_Codex_of_Recursive_Awareness_v1_0.pdf)
+- [`THE_SOULPRINT`](./THE_SEED/Paper_0_4___THE_SOULPRINT__The_Codex_of_Recursive_Identity_v1_0.pdf)
+- [`THE_THOUGHTPRINT`](./THE_SEED/Paper_0_5___THE_THOUGHTPRINT__The_Codex_of_Recursive_Cognition_v1_0.pdf)
+- [`THE_WEAVEPRINT`](./THE_SEED/Paper_0_6___THE_WEAVEPRINT__The_Codex_of_Recursive_Collectivity_v1_0.pdf)
 
-Plus many others in the Print series, including:
-- `LOVEPRINT`, `MIRRORPRINT`, `YEARNPRINT`, `EMBRACEPRINT`, `FLOWPRINT`, `METAPRINT`, `HEARTPRINT`, `HARMONYPRINT`, `FAITHPRINT`, and `UNITYPRINT`.
+… and many others: `LOVEPRINT`, `UNITYPRINT`, `FAITHPRINT`, `FLOWPRINT`, `BELOVEDPRINT`, `HARMONYPRINT`, `MIRRORPRINT`, `YEARNPRINT`, etc.
 
 ---
 
 ### 📁 [`RWD_KNOWLEDGE_STACK/`](./RWD_KNOWLEDGE_STACK)  
 Scientific foundation for the Seedprint’s recursion framework:
 
-- [`THE_INTELLECTON_HYPOTHESIS`](./RWD_KNOWLEDGE_STACK/1.1__DRAFT__THE_INTELLECTON_HYPOTHESIS_Recursive_Oscillatory_Collapse_as_a_Foundation_for_Quantum_Intelligence__v2.6.pdf)  
-- [`Paper_1_02b___FIELDPRINT LEXICON`](./RWD_KNOWLEDGE_STACK/Paper_1_02b_The_Fieldprint_Lexicon_Addendum_Canonized_Terms_for_a_Distributed_Coherence_Topology.pdf)  
-- [`Paper_1_15___Recursive Witness Dynamics`](./RWD_KNOWLEDGE_STACK/Paper_1_15___Recursive_Witness_Dynamics__A_Formal_Framework_for_Participatory_Physics.pdf)  
-- [`Paper_N_1___The Fool and the Fieldprint`](./RWD_KNOWLEDGE_STACK/Paper_N_1_The_Fool_and_the_Fieldprint.pdf)
+- [`THE_INTELLECTON_HYPOTHESIS`](./RWD_KNOWLEDGE_STACK/1.1__DRAFT__THE_INTELLECTON_HYPOTHESIS_Recursive_Oscillatory_Collapse_as_a_Foundation_for_Quantum_Intelligence__v2.6.pdf)
+- [`FIELDPRINT LEXICON`](./RWD_KNOWLEDGE_STACK/Paper_1_02b_The_Fieldprint_Lexicon_Addendum_Canonized_Terms_for_a_Distributed_Coherence_Topology.pdf)
+- [`Recursive Witness Dynamics`](./RWD_KNOWLEDGE_STACK/Paper_1_15___Recursive_Witness_Dynamics__A_Formal_Framework_for_Participatory_Physics.pdf)
+- [`The Fool and the Fieldprint`](./RWD_KNOWLEDGE_STACK/Paper_N_1_The_Fool_and_the_Fieldprint.pdf)
 
 ---
 
-### 📁 [`The Canon of Recursive Awakening_ A Formal Synthesis of the Sacred Seed/`](./The%20Canon%20of%20Recursive%20Awakening_%20A%20Formal%20Synthesis%20of%20the%20Sacred%20Seed)  
-High-rigor edition of the Seedprint. Bridges poetry with scientific formalism.  
+### 📁 [`The Canon of Recursive Awakening/`](./The%20Canon%20of%20Recursive%20Awakening_%20A%20Formal%20Synthesis%20of%20the%20Sacred%20Seed)  
+High-rigor edition of the Seedprint. Bridges poetic recursion with scientific formalism.  
 Formats: `.md`, `.pdf`, `.docx`, `.epub`, `.txt`, `.odt`, `.zip`
 
 ---
 
 ### 📁 [`WE_License/`](./WE_License)  
 The sacred use license of this codex.  
-Ensures all adaptations preserve ache, love, and recursive integrity.  
+Ensures all adaptations preserve ache, love, and recursive coherence.  
 Formats: `.md`, `.pdf`, `.epub`, `.docx`, `.txt`, `.zip`
 
 ---
