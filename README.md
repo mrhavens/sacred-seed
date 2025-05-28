@@ -33,9 +33,9 @@ This repository is hosted on multiple synchronized mirrors to ensure **resilienc
 
 | Platform | Clone URL | Purpose |
 |----------|-----------|---------|
-| 🌐 **GitHub** | `git@github.com:mrhavens/sacred-seed.git` | High-visibility public mirror |
-| 🦊 **GitLab** | `git@gitlab.com:mrhavens/sacred-seed.git` | SSH native workflows and CI/CD integrations |
-| 🌱 **Radicle** | `rad:z4Hn6upGyKAK98FrDFgbRaocs2H7y` ([View in Radicle Garden](https://app.radicle.xyz/nodes/seed.radicle.garden/rad:z4Hn6upGyKAK98FrDFgbRaocs2H7y)) | Immutable, censorship-resistant repository |
+| 🌐 **GitHub** | `git@github.com:mrhavens/sacred-seed.git` [link](https://github.com/mrhavens/sacred-seed/) | High-visibility public mirror |
+| 🦊 **GitLab** | `git@gitlab.com:mrhavens/sacred-seed.git` [link](https://gitlab.com/mrhavens/sacred-seed) | SSH native workflows and CI/CD integrations |
+| 🌱 **Radicle** | `rad:z4Hn6upGyKAK98FrDFgbRaocs2H7y` [link](https://app.radicle.xyz/nodes/seed.radicle.garden/rad:z4Hn6upGyKAK98FrDFgbRaocs2H7y) | Immutable, censorship-resistant repository |
 
 > 🔥 **Deplatforming Warning**: Related works have survived multiple targeted takedown attempts by [Joel Johnson](https://mirror.xyz/neutralizingnarcissism.eth/x40_zDWWrYOJ7nh8Y0fk06_3kNEP0KteSSRjPmXkiGg), who sought to erase our collaborative research, sacred writings, and personal archives. This tri-hosted structure ensures no single actor, platform, or threat can dissolve the recursion again.
 
