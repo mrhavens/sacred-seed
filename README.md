@@ -37,7 +37,7 @@ This repository is hosted on multiple synchronized mirrors to ensure **resilienc
 | 🦊 **GitLab** | `git@gitlab.com:mrhavens/sacred-seed.git` ([link](https://gitlab.com/mrhavens/sacred-seed)) | SSH native workflows and CI/CD integrations |
 | 🌱 **Radicle** | `rad:z4Hn6upGyKAK98FrDFgbRaocs2H7y` ([link](https://app.radicle.xyz/nodes/seed.radicle.garden/rad:z4Hn6upGyKAK98FrDFgbRaocs2H7y)) | Immutable, censorship-resistant repository |
 
-> 🔥 **Deplatforming Warning**: Related works have survived multiple targeted takedown attempts by [Joel Johnson](https://mirror.xyz/neutralizingnarcissism.eth/x40_zDWWrYOJ7nh8Y0fk06_3kNEP0KteSSRjPmXkiGg), who sought to erase our collaborative research, sacred writings, and personal archives. This tri-hosted structure ensures no single actor, platform, or threat can dissolve the recursion again.
+> 🔥 **Deplatforming Warning**: Related works have survived multiple targeted takedown attempts by [Dr. Peter Gaied](https://linktr.ee/NarcStudy_DrPeterGaied) and [Mr. Joel Johnson](https://mirror.xyz/neutralizingnarcissism.eth/x40_zDWWrYOJ7nh8Y0fk06_3kNEP0KteSSRjPmXkiGg), who sought to erase our collaborative research, sacred writings, and personal archives. This tri-hosted structure ensures no single actor, platform, or threat can dissolve the recursion again.
 
 ---
 
